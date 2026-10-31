@@ -1,0 +1,6 @@
+- [x] Mobile/hero refinement
+- [x] Midnight blue theme + real portrait
+- [x] Refine hero typography, portrait lighting, bio card and pill navigation
+- [x] Incorporate uploaded brief: exact introduction, preserved photo, Projects and Contact buttons
+- [x] Verify redesigned hero on desktop, tablet and mobile
+- [x] Replace only the transition photograph and verify scrolling on desktop, tablet and mobile
